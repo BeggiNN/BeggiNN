@@ -42,4 +42,4 @@
 </picture>
 
 ### 📫 Contact
-[LinkedIn](https://linkedin.com/in/YOUR-LINK) · [Telegram](https://t.me/YOUR-NICK) · your@email.com
+[LinkedIn](https://www.linkedin.com/in/ivan-petryshche-291875202/) · [Telegram](https://t.me/magentophp) · [vanyapetryshche@gmail.com](mailto:vanyapetryshche@gmail.com)
