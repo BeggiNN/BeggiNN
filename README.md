@@ -27,13 +27,8 @@
   <img alt="3D contributions" src="./profile-3d-contrib/profile-green-animate.svg" />
 </picture>
 
-<p>
-  <img src="./metrics.isocalendar.svg" width="49%" />
-  <img src="./metrics.languages.svg" width="49%" />
-</p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BeggiNN&theme=tokyonight&hide_border=true" />
+  <img src="./metrics.languages.svg" />
 </p>
 
 <picture>
