@@ -10,7 +10,7 @@
 ---
 
 ### 🛒 What I do
-- Build and maintain e-commerce stores on **Magento 2** with **Hyvä** themes
+- Build and maintain e-commerce stores on **Magento 2**
 - Custom modules and third-party integrations (payments, SEO, catalog tooling)
 - Security patching, upgrades and CI/CD deploys with **GitHub Actions**
 - Local environments with **Docker / Warden**
